@@ -1,6 +1,6 @@
 MSWeakTimer
 ===========
-
+< http://www.jianshu.com/p/846f8486a9d0
 ## Description
 
 Thread-safe `NSTimer` drop-in alternative that doesn't retain the target and supports being used with `GCD` queues.
